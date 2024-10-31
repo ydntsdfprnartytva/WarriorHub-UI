@@ -178,7 +178,7 @@ do
 end
 ```
 
-## Create Slider
+## Create Tab
 ```lua
 local exampleTab = Warrior:NewTab("Example Tab")
 ```
